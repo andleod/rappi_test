@@ -22,7 +22,7 @@ El proyecto utiliza la imagen oficial de Apache Airflow y Docker Compose para or
 Abre tu terminal y clona este proyecto en tu máquina local.
 
 ```bash
-git clone rappi_test
+git clone https://github.com/andleod/rappi_test
 cd rappi_test
 ```
 
